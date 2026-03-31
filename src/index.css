@@ -1,0 +1,79 @@
+.armenia{
+border: 5px white;
+height: 300px;
+width: 600px;
+margin: 50px;
+}
+
+
+.a{
+    height: 100px;
+    width: 600px;
+    background-color: #be0026;
+}
+.b{
+    height: 100px;
+    width: 600px;
+background-color:#3c5aa3 ;
+}
+.c{
+    height: 100px;
+   width: 600px;
+   background-color:#e2ae58 ;
+}
+.gabon{
+    border: 5px white;
+height: 300px;
+width: 600px;
+margin: 50px;
+
+}
+.d{
+    height: 100px;
+   width: 600px;
+   background-color: #00a652;
+}
+.e{
+    height: 100px;
+   width: 600px;
+   background-color: #fef200;
+   
+}
+.f{
+    height: 100px;
+   width: 600px;
+   background-color: #0065b3;
+}
+
+.germany{
+    border: 5px white;
+height: 300px;
+width: 600px;
+margin: 60px;
+}
+.g{
+    height: 100px;
+    width: 600px;
+    background-color: #231f20;
+}
+.h{
+     height: 100px;
+    width: 600px;
+    background-color:#ed1b24 ;
+}
+.i{
+     height: 100px;
+    width: 600px;
+    background-color:#fdce63 ;
+
+}
+    h1{
+        text-align: center;
+      
+    }
+    h2{
+       
+       text-decoration: underline;
+    }
+
+
